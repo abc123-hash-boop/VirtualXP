@@ -1,12 +1,9 @@
 # VirtualXP
 
 Virtual Machine running on a Web browser.
-
-![alt screenshot](https://raw.githubusercontent.com/lrusso/VirtualXP/master/VirtualXP.png)
-
 ## Web
 
-https://lrusso.github.io/VirtualXP/VirtualXP.htm
+ [https://lrusso.github.io/VirtualXP/VirtualXP.htm](https://abc123-hash-boop.github.io/VirtualXP/VirtualXP.htm)
 
 ## Editing the VirtualXP Registry
 
