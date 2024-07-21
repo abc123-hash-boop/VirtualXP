@@ -3,7 +3,7 @@
 Virtual Machine running on a Web browser.
 ## Web
 
- [https://lrusso.github.io/VirtualXP/VirtualXP.htm](https://abc123-hash-boop.github.io/VirtualXP/VirtualXP.htm)
+ [Start!](https://abc123-hash-boop.github.io/VirtualXP/VirtualXP.htm)
 
 ## Editing the VirtualXP Registry
 
